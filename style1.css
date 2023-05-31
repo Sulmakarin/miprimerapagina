@@ -178,3 +178,6 @@ video {
   padding: 10px;
   gap: 5px;
 }
+.greeting {
+  text-align: center;
+}

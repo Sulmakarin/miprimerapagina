@@ -1,5 +1,5 @@
 body {
-  background-color: pink ;
+  background-color: pink;
   color: blue;
 }
 
@@ -130,14 +130,12 @@ footer {
   .column {
     flex: 100%;
   }
-}
 
-
-.nav-links {
+  .nav-links {
     display: none;
-}
+  }
 
-.button-menu-toggle {
+  .button-menu-toggle {
     display: block;
     background-color: white;
     border: none;
@@ -146,9 +144,9 @@ footer {
     font-family: monospace;
     font-weight: bold;
     font-size: 20px;
-}
+  }
 
-.nav-links.nav-links-responsive {
+  .nav-links.nav-links-responsive {
     position: absolute;
     display: flex;
     background-color: rgba(20, 20, 20, 0.95);
@@ -163,7 +161,15 @@ footer {
     font-size: 40px;
 
 
+  }
+
 }
+
+
+
+
+
+
 
 .Imagenes-container {
   flex-direction: column;
